@@ -1,0 +1,37 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: 黑体;
+	color: #626262;
+	text-decoration: none;
+}
+
+div.head{
+	background: #333;
+	width: 100%;
+	height: 6%;
+	position: fixed;
+}
+
+.head_left{
+	float: left;
+	vertical-align: middle;
+	padding-top:10px; 
+}
+
+.head_left[src]{
+	padding: 0px;
+	height:100%;
+}
+
+.hiddentxt{
+	color: #333;
+}
+.hiddentxt:hover{
+	color: #626262;
+}
+.head_right{
+	float: right;
+	padding-top: 10px;
+	margin-right: 20px;
+}
